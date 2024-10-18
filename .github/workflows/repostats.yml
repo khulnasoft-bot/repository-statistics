@@ -44,5 +44,5 @@ jobs:
         uses: jgehrcke/github-repo-stats@v1.4.2
         with:
           repository: ${{ matrix.statsRepoExt }}
-          ghtoken: ${{ secrets.GHRS_EXT_GITHUB_API_TOKEN }}
+          ghtoken: ${{ secrets.ORG_REPO_TOKEN }}
           databranch: main
