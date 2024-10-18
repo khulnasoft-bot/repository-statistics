@@ -12,7 +12,9 @@ jobs:
     strategy:
       matrix:
         statsRepo:
-          - 'khulnasoft/*'
+          - khulnasoft/labeler
+          - khulnasoft/shipyard
+          - khulnasoft/devkit
       fail-fast: false
       max-parallel: 1
     steps:
@@ -33,7 +35,9 @@ jobs:
     strategy:
       matrix:
         statsRepoExt:
-          - 'khulnasoft-lab/*'
+          - khulnasoft-lab/awesome-security
+          - khulnasoft-lab/malicious-packages
+          - khulnasoft-lab/vuln-list
       fail-fast: false
       max-parallel: 1
     steps:
