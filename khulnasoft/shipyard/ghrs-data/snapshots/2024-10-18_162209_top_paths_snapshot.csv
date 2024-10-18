@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/khulnasoft/shipyard,21,5
+/khulnasoft/shipyard/actions,21,3
+/khulnasoft/shipyard/pulls,11,4
+/khulnasoft/shipyard/actions/runs/11190223241/job/31111659275,4,1
+/khulnasoft/shipyard/security/dependabot,4,1
+/khulnasoft/shipyard/security/dependabot/9,4,1
+/khulnasoft/shipyard/pull/9,3,2
+/khulnasoft/shipyard/security,3,1
+/khulnasoft/shipyard/actions/runs/10875827165/workflow,2,2
+/khulnasoft/shipyard/actions/workflows/build-docs-site.yml,2,2
