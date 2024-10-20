@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/khulnasoft/devkit/actions,104,4
+/khulnasoft/devkit,52,4
+/khulnasoft/devkit/pulls,32,4
+/khulnasoft/devkit/tree/develop,27,4
+/khulnasoft/devkit/pull/3,12,1
+/khulnasoft/devkit/pull/6,11,1
+/khulnasoft/devkit/pull/3/checks,8,1
+/khulnasoft/devkit/pull/6/checks,8,1
+/khulnasoft/devkit/actions/workflows/ci.yml,5,2
+/khulnasoft/devkit/pull/4,5,2
