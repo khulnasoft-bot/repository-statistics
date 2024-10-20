@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/khulnasoft/shipyard,7,4
+/khulnasoft/shipyard/pulls,4,3
+/khulnasoft/shipyard/actions/workflows/build-docs-site.yml,4,1
+/khulnasoft/shipyard/actions/workflows/close-stale-issues.yml,3,1
+/khulnasoft/shipyard/actions,2,1
+/khulnasoft/shipyard/blob/master/.github/pr-branch-labeler.yml,2,1
+/khulnasoft/shipyard/tree/master/.github,2,1
+/khulnasoft/shipyard/actions/runs/11411348335,1,1
+/khulnasoft/shipyard/actions/runs/11411348335/job/31755415992,1,1
+/khulnasoft/shipyard/actions/runs/11411358642,1,1
