@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/khulnasoft/shipyard,8,4
+/khulnasoft/shipyard/pulls,5,3
+/khulnasoft/shipyard/actions,4,2
+/khulnasoft/shipyard/actions/workflows/build-docs-site.yml,4,1
+/khulnasoft/shipyard/actions/workflows/close-stale-issues.yml,3,1
+/khulnasoft/shipyard/blob/DEPLOY/heroku/docs/developing.md,3,1
+/khulnasoft/shipyard/tree/WEBSITE/docs-site-source,3,1
+/khulnasoft/shipyard/actions/workflows/add-comment-from-tag.yml,2,2
+/khulnasoft/shipyard/discussions,2,2
+/khulnasoft/shipyard/blob/master/.github/pr-branch-labeler.yml,2,1
