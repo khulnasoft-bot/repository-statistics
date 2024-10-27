@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/khulnasoft/labeler,3,1
+/khulnasoft/labeler/actions,2,1
+/khulnasoft/labeler/actions/workflows/basic-validation.yml,1,1
+/khulnasoft/labeler/actions/workflows/check-dist.yml,1,1
+/khulnasoft/labeler/actions/workflows/licensed.yml,1,1
+/khulnasoft/labeler/pulls,1,1
