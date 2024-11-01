@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/khulnasoft-lab/malicious-packages/actions,10,1
+/khulnasoft-lab/malicious-packages,9,5
+/khulnasoft-lab/malicious-packages/pulls,7,1
+/khulnasoft-lab/malicious-packages/issues/22,5,1
+/khulnasoft-lab/malicious-packages/actions/workflows/ingest-ghsa.yml,4,3
+/khulnasoft-lab/malicious-packages/blob/main/.github/workflows/dep-auto-merge.yml,4,3
+/khulnasoft-lab/malicious-packages/tree/main/.github,4,3
+/khulnasoft-lab/malicious-packages/tree/main/.github/workflows,4,3
+/khulnasoft-lab/malicious-packages/issues/412,3,1
+/khulnasoft-lab/malicious-packages/tree/main/osv,2,2
